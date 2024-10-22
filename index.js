@@ -14,7 +14,7 @@ const robotCategories = [
     { name: 'Entertainment Robot', value: 'entertainment robot, ai generated, cute, baby, robot, robotics, toy, fun' }
 ];
 
-const API_KEY = '45772807-c48b2021298f56f2bf7193743';
+const API_KEY = '45772807-';
 
 const dropdown = document.getElementById('robotSelect');
 robotCategories.forEach(category => {
